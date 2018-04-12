@@ -1,6 +1,6 @@
-j# AriaNg
+# AriaNg
 [![Lastest Build](https://circleci.com/gh/mayswind/AriaNg.png "Lastest Build")](https://circleci.com/gh/mayswind/AriaNg/tree/master)
-######  233333333333333333333333
+##  233333333333333333333333
 ## Introduction
 A Better Frontend for [aria2](https://github.com/aria2/aria2) (a cross-platform download utility). AriaNg is written in pure html & javascript, so it does not need to be compiled and not need any runtime environment, and you just need to open it in your browser. By using responsive layout, you can open it on any desktop or mobile devices.
 
